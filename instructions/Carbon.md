@@ -1,4 +1,4 @@
-# Sync Source Testnet using snapshot 
+# Sync Carbon Testnet using snapshot 
 
 
 ### Stop Source service
